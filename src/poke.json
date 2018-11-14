@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "bulbasaur",
+    "picture": "images/bulbasaur.png",
+    "value": 3
+  },
+  {
+    "id": 2,
+    "name": "hypno",
+    "picture": "images/hypno.png",
+    "value": 4
+  },
+  {
+    "id": 3,
+    "name": "machop",
+    "picture": "images/machop.png",
+    "value": 5
+  },
+  {
+    "id": 4,
+    "name": "poliwag",
+    "picture": "images/poliwag.png",
+    "value": 6
+  },
+  {
+    "id": 5,
+    "name": "squirtle",
+    "picture": "images/squirtle.png",
+    "value": 7
+  },
+  {
+    "id": 6,
+    "name": "charmander",
+    "picture": "images/charmander.png",
+    "value": 8
+  },
+  {
+    "id": 7,
+    "name": "jigglypuff",
+    "picture": "images/jigglypuff.png",
+    "value": 9
+  },
+  {
+    "id": 8,
+    "name": "pikachu",
+    "picture": "images/pikachu.png",
+    "value": 10
+  },
+  {
+    "id": 9,
+    "name": "psyduck",
+    "picture": "images/psyduck.png",
+    "value": 11
+  },
+  {
+    "id": 10,
+    "name": "zubat",
+    "picture": "images/zubat.png",
+    "value": 12
+  }
+]
